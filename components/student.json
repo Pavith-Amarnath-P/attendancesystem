@@ -1,0 +1,62 @@
+[
+    {
+        "username": "Pavith Amarnath",
+        "rollno": "22MCA033",
+        "department": "MCA",
+        "fathername": "Paraneetharan",
+        "mothername": "Dhanalakshmi",
+        "email": "pavithamarnath.22mca@kct.ac.in",
+        "mobileno": "9876543210",
+        "pword": "pavi"
+    },
+    {
+        "username": "Preethi",
+        "rollno": "22MCA035",
+        "department": "MCA",
+        "fathername": "Senthilkumar",
+        "mothername": "Vijaya",
+        "email": "preethi.22mca@kct.ac.in",
+        "mobileno": "9876543211",
+        "password": "pree"
+    },
+    {
+        "username": "Sri dharun",
+        "rollno": "22MCA053",
+        "department": "MCA",
+        "fathername": "Palanisamy",
+        "mothername": "Subha",
+        "email": "sridharun.22mca@kct.ac.in",
+        "mobileno": "9876543210",
+        "password": "srid"
+    },
+    {
+        "username": "Srisabarish",
+        "rollno": "22MCA054",
+        "department": "MCA",
+        "fathername": "Natarajan",
+        "mothername": "Devi",
+        "email": "srisabarish.22mca@kct.ac.in",
+        "mobileno": "9876543260",
+        "password": "sris"
+    },
+    {
+        "username": "Shunmuga Priya",
+        "rollno": "22MCA049",
+        "department": "MCA",
+        "fathername": "Balakannan",
+        "mothername": "Kalyani",
+        "email": "shunmughapriya.22mca@kct.ac.in",
+        "mobileno": "8876543210",
+        "password": "shun"
+    },
+    {
+        "username": "Vasan Ravi",
+        "rollno": "22MCA060",
+        "department": "MCA",
+        "fathername": "Ravi",
+        "mothername": "Ajanta",
+        "email": "vasan.22mca@kct.ac.in",
+        "mobileno": "9856543210",
+        "password": "vasa"
+    }
+]

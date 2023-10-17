@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "username": "Hameed Ibrahim",
+        "department": "MCA",
+        "subject": {
+            "I-MCA": "Operating system",
+            "II-MCA": "Web Technologies"
+        },
+        "email": "hameedibrahim@kct.ac.in",
+        "mobileno": "9876543210",
+        "pword": "hame"
+    },
+    {
+        "id": "2",
+        "username": "Kavitha",
+        "department": "MCA",
+        "subject": {
+            "I-MCA": "Data Intensive Computing",
+            "II-MCA": "Ethics in Computing"
+        },
+        "email": "kavitha@kct.ac.in",
+        "mobileno": "9876543210",
+        "pword": "kavi"
+    },
+    {
+        "id": "3",
+        "username": "Dhanabal",
+        "department": "MCA",
+        "subject": {
+            "I-MCA": "Computing Networks",
+            "II-MCA": "Ethical Hacking"
+        },
+        "email": "dhanabal@kct.ac.in",
+        "mobileno": "9876543210",
+        "pword": "dhan"
+    },
+    {
+        "id": "4",
+        "username": "Geetha",
+        "department": "MCA",
+        "subject": {
+            "I-MCA": "Data Structures",
+            "II-MCA": "E-Commerce"
+        },
+        "email": "geetha@kct.ac.in",
+        "mobileno": "9876543210",
+        "pword": "geet"
+    },
+    {
+        "id": "5",
+        "username": "Jayakanthan",
+        "department": "MCA",
+        "subject": {
+            "I-MCA": "Programming in Java",
+            "II-MCA": "Blockchain Technologies"
+        },
+        "email": "jayakanthan@kct.ac.in",
+        "mobileno": "9876543210",
+        "pword": "jaya"
+    }
+]
